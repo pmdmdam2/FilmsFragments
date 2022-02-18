@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Fragments</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment_first">Hello blank fragment first</string>
+    <string name="hello_blank_fragment_second">Hello blank fragment second</string>
+    <string name="first_fragment">First Fragment</string>
+    <string name="second_fragment">Second Fragment</string>
+    <string name="des_muerte_nilo">Las vacaciones egipcias del detective belga Hércules Poirot a bordo de un glamuroso barco de vapor se convierten en la aterradora búsqueda de un asesino cuando la luna de miel de una pareja perfecta se ve truncada. La aventura se desarrolla en un paisaje con maravillosas vistas al desierto..</string>
+    <string name="des_uncharted">Nathan Drake, un joven astuto y carismático, se enfrenta a su primera aventura como cazatesoros con su ingenioso compañero Victor Sullivan, al que todos conocen como Sully. En una épica aventura que se extiende por todo el mundo, ambos se embarcan en una peligrosa búsqueda del mayor tesoro...</string>
+    <string name="muerte_nilo">Muerte en el Nilo</string>
+    <string name="uncharted">Uncharted</string>
+</resources>
